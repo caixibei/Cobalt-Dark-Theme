@@ -3,12 +3,9 @@
 [//]: # (https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID?style=flat-square)
 [//]: # (https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID?style=flat-square)
 [//]: # (https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
-
 一个专为开发者设计的优雅深色主题，采用柔和的钴蓝色系，为长时间编码提供舒适且专注的视觉体验。
 
-## 预览
-
-<img src="<img src="https://raw.githubusercontent.com/caixibei/Protecteyes-Theme/refs/heads/master/example/example.webp"/>"/>
+<img src="https://raw.githubusercontent.com/caixibei/Protecteyes-Theme/refs/heads/master/example/example.webp"/>
 
 ## 特性
 
