@@ -7,65 +7,66 @@
     <idea-version since-build="203"/>
     <description><![CDATA[
         <html>
-            <h2>🌿 Cobalt Dark Theme</h2>
+            <h2>🌿 Cobalt Dark Theme - 钴蓝深色主题</h2>
             <p>
-                Make coding more comfortable and your eyes more relaxed!
+                让编码更加舒适，让眼睛更加放松！
             </p>
             <div>
-                <img src="https://raw.githubusercontent.com/caixibei/Relax-Light-Theme/refs/heads/master/example/example.webp"/>
+                <!-- 请替换为您的主题实际预览图 -->
+                <img src="https://raw.githubusercontent.com/your-username/cobalt-dark-theme/main/example/example.webp"/>
             </div>
-            <p>Long hours of coding causing eye strain and dryness?<br/>
-            <b>Cobalt Dark Theme</b> is an eye-protection theme plugin designed specifically for developers. It combines soft color science with comfortable visual experience to help you code efficiently while caring for your eye health.</p>
+            <p>长时间编码导致眼睛疲劳和干涩？<br/>
+            <b>Cobalt Dark Theme</b> 是一款专为开发者设计的护眼深色主题插件。它融合了柔和的色彩科学与舒适的视觉体验，帮助您高效编码的同时关爱眼部健康。</p>
 
-            <h3>✨ Features:</h3>
+            <h3>✨ 特性：</h3>
             <ul>
                 <li>
-                    <b>Low Blue Light Soft Colors:</b> Uses visually optimized low-saturation colors to reduce blue light stimulation and alleviate eye fatigue from prolonged screen time.
+                    <b>柔和的钴蓝色调：</b>采用视觉优化的深蓝色系，减少视觉刺激，缓解长时间面对屏幕的眼部疲劳。
                 </li>
                 <li>
-                    <b>Multi-level Contrast Optimization:</b> Key code elements are clearly highlighted while non-critical information is gently toned down, improving code readability without glare.
+                    <b>多层次对比度优化：</b>关键代码元素清晰突出，非关键信息柔和淡化，提高代码可读性而不刺眼。
                 </li>
                 <li>
-                    <b>Global Eye-Protection Mode:</b> Not just the editor, but the entire IDE interface including sidebars, toolbars, and dialogs are uniformly color-tuned for a consistent and comfortable visual experience.
+                    <b>全局深色模式：</b>不仅是编辑器，整个IDE界面包括侧边栏、工具栏和对话框都进行了统一的色彩调优，提供一致的舒适视觉体验。
                 </li>
                 <li>
-                    <b>Multi-language Syntax Highlighting Support:</b> Perfectly supports mainstream languages like Java, Python, JavaScript, HTML/CSS, with clear syntax hierarchy and logical structure.
+                    <b>多语言语法高亮支持：</b>完美支持Java、Python、JavaScript、HTML/CSS等主流语言，语法层次和逻辑结构清晰明了。
                 </li>
                 <li>
-                    <b>Light Mode:</b> Provides dark mode to adapt to different night environments and personal preferences.
+                    <b>专注编码体验：</b>精心设计的界面元素减少视觉干扰，帮助您专注于代码创作。
                 </li>
             </ul>
 
-            <h3>🎯 Target Users:</h3>
+            <h3>🎯 目标用户：</h3>
             <ul>
-                <li>Professional developers who code for long hours daily</li>
-                <li>Students and programming enthusiasts who self-learn</li>
-                <li>Users sensitive to visual fatigue or already suffering from dry eye syndrome</li>
-                <li>Programming professionals who pursue both efficiency and health</li>
+                <li>每天长时间编码的专业开发人员</li>
+                <li>自学编程的学生和编程爱好者</li>
+                <li>对视觉疲劳敏感或已有干眼症的用户</li>
+                <li>追求效率与健康并重的编程专业人士</li>
             </ul>
 
-            <h3>🛠 Installation & Usage:</h3>
+            <h3>🛠 安装与使用：</h3>
             <ol>
-                <li>In JetBrains IDE, go to Plugins Marketplace</li>
-                <li>Search for <b>Cobalt Dark Theme</b> and install it</li>
-                <li>Restart IDE, go to Settings → Appearance & Behavior → Theme and select <b>Cobalt Dark Theme Light</b></li>
+                <li>在JetBrains IDE中，打开插件市场</li>
+                <li>搜索 <b>Cobalt Dark Theme</b> 并安装</li>
+                <li>重启IDE，进入设置 → 外观与行为 → 主题，选择 <b>Cobalt Dark Theme</b></li>
             </ol>
 
             <blockquote>
-                <p>「We believe that good tools should not only be powerful but also humanized. Cobalt Dark Theme is more than just a theme—it's a care for developers' eyes.」</p>
+                <p>「我们相信，优秀的工具不仅应该功能强大，更应该人性化。Cobalt Dark Theme 不仅仅是一个主题——它是对开发者眼睛的关怀。」</p>
             </blockquote>
 
-            <p>💡 <b>Let Cobalt Dark Theme accompany every moment of your programming. Code is not only about efficiency but also about comfort.</b></p>
+            <p>💡 <b>让 Cobalt Dark Theme 陪伴您的每一个编程时刻。编码不仅是效率，更是舒适。</b></p>
         </html>
     ]]></description>
     <change-notes><![CDATA[
         <html>
-            <h3>Version 1.0.0</h3>
+            <h3>版本 1.0.0</h3>
             <ul>
-                <li>Initial version release</li>
-                <li>Includes light eye-protection themes</li>
-                <li>Supports syntax highlighting for mainstream programming languages</li>
-                <li>Comprehensive visual optimization for all IDE interface components</li>
+                <li>初始版本发布</li>
+                <li>包含钴蓝深色主题</li>
+                <li>支持主流编程语言的语法高亮</li>
+                <li>对所有IDE界面组件进行全面视觉优化</li>
             </ul>
         </html>
     ]]></change-notes>
